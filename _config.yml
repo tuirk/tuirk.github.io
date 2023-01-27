@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Tuana"
   avatar           : "avatar.png"
-  bio              : "I am an **amazing** person."
+  bio              : ""
   location         : "Turkey"
   email            :
   links:
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/tuirk"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
